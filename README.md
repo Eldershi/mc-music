@@ -6,11 +6,13 @@ In NetMusic's **Computer**, enter an MP3 URL, song name, and duration in seconds
 
 用于 Minecraft NetMusic 网络音乐机。在模组的**电脑**界面填写 MP3 直链、歌名和时长（秒），即可写入唱片。
 
+[罗大佑](#luo-dayou--罗大佑) · [陶喆](#david-tao--陶喆) · [All direct links / 全部直链](links.txt)
+
 ## Luo Dayou / 罗大佑
 
 55 songs, converted to MP3 from the available AAC audio streams.
 
-[Source collection / 原视频](https://www.bilibili.com/video/BV1FLDcBfETK/) · [All direct links / 全部直链](links.txt)
+[Source collection / 原视频](https://www.bilibili.com/video/BV1FLDcBfETK/) · [Direct links / 直链清单](links/luo-dayou.txt)
 
 | # | Track / 曲目 | Length / 时长 | Seconds / 秒 | Direct link / 直链 |
 | --- | --- | --- | ---: | --- |
@@ -69,3 +71,35 @@ In NetMusic's **Computer**, enter an MP3 URL, song name, and duration in seconds
 | 53 | 罗大佑 - 母亲 | 4:16 | 256 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/luo-dayou/luo-dayou-53.mp3) |
 | 54 | 罗大佑 - 沉默的表示 | 3:48 | 228 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/luo-dayou/luo-dayou-54.mp3) |
 | 55 | 罗大佑 - 倾城之雨 | 3:48 | 228 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/luo-dayou/luo-dayou-55.mp3) |
+
+## David Tao / 陶喆
+
+23 songs, converted to MP3 from the available AAC audio streams.
+
+[Source collection / 原视频](https://www.bilibili.com/video/BV1NJR1BzEPv/) · [Direct links / 直链清单](links/david-tao.txt)
+
+| # | Track / 曲目 | Length / 时长 | Seconds / 秒 | Direct link / 直链 |
+| --- | --- | --- | ---: | --- |
+| 01 | 陶喆 - 爱我还是他 | 4:46 | 286 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-01.mp3) |
+| 02 | 陶喆 - 寂寞的季节 | 3:27 | 207 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-02.mp3) |
+| 03 | 陶喆 - 黑色柳丁 | 4:16 | 256 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-03.mp3) |
+| 04 | 陶喆 - 飞机场的10：30 | 4:40 | 280 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-04.mp3) |
+| 05 | 陶喆 - 流沙 | 3:59 | 239 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-05.mp3) |
+| 06 | 陶喆 - 普通朋友 | 4:08 | 248 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-06.mp3) |
+| 07 | 陶喆 - 十七岁 | 4:14 | 254 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-07.mp3) |
+| 08 | 陶喆 - 太美丽 | 4:53 | 293 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-08.mp3) |
+| 09 | 陶喆 - 讨厌红楼梦 | 4:03 | 243 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-09.mp3) |
+| 10 | 陶喆 - 天天 | 4:12 | 252 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-10.mp3) |
+| 11 | 陶喆 - 小镇姑娘 | 4:53 | 293 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-11.mp3) |
+| 12 | 陶喆 - Melody | 4:25 | 265 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-12.mp3) |
+| 13 | 陶喆 - Susan说 | 4:18 | 258 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-13.mp3) |
+| 14 | 陶喆 - 爱，很简单 | 4:26 | 266 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-14.mp3) |
+| 15 | 陶喆 - 二十二 | 4:18 | 258 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-15.mp3) |
+| 16 | 陶喆 - 蝴蝶 | 4:38 | 278 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-16.mp3) |
+| 17 | 陶喆 - 今天你要嫁给我 | 4:29 | 269 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-17.mp3) |
+| 18 | 陶喆 - 就是爱你 | 4:19 | 259 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-18.mp3) |
+| 19 | 陶喆 - 那个女孩 | 4:23 | 263 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-19.mp3) |
+| 20 | 陶喆 - 望春风 | 2:56 | 176 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-20.mp3) |
+| 21 | 陶喆 - 一念之间 | 4:32 | 272 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-21.mp3) |
+| 22 | 陶喆 - 月亮代表谁的心 | 3:26 | 206 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-22.mp3) |
+| 23 | 陶喆 - 找自己 | 5:02 | 302 | [MP3](https://raw.githubusercontent.com/Eldershi/mc-music/main/music/david-tao/david-tao-23.mp3) |
